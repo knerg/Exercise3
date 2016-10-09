@@ -1,0 +1,55 @@
+On branch rebasetest
+Changes not staged for commit:
+	modified:   ../repo01/test02
+
+Untracked files:
+	../.bash_history
+	../.eclipse/
+	../.gitconfig
+	../.jmc/
+	../.oracle_jre_usage/
+	../.p2/
+	../.smplayer/
+	../.tooling/
+	../.viminfo
+	../AppData/
+	../Application Data/
+	../Assignment3/
+	../Contacts/
+	../Cookies/
+	../Desktop/
+	../Documents/
+	../Downloads/
+	../Favorites/
+	../JavaProject/
+	../Links/
+	../Local Settings/
+	../Music/
+	../My Documents/
+	../NTUSER.DAT
+	../NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+	../NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+	../NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+	../Pictures/
+	../Recent/
+	../Saved Games/
+	../Searches/
+	../SendTo/
+	../Start Menu/
+	../Tracing/
+	../Videos/
+	../conflict1/
+	../exercise1/
+	./
+	../ntuser.dat.LOG1
+	../ntuser.dat.LOG2
+	../ntuser.ini
+	../rebase1.txt
+	../repo01/rebase1.txt
+	../repo01/rebasefile.txt
+	../repo01/repo01/
+	../repo02/
+	../workspace/
+	../workspace1/
+
+no changes added to commit

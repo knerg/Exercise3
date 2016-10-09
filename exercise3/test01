@@ -1,0 +1,6 @@
+[rebasetest (root-commit) b510bd0] Initial change
+ 4 files changed, 5 insertions(+)
+ create mode 100644 repo01/data.txt
+ create mode 100644 repo01/test01
+ create mode 100644 repo01/test02
+ create mode 100644 repo01/test03
